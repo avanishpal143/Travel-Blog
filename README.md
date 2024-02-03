@@ -46,9 +46,3 @@ Feel free to clone or download this repository to use it as a template for your 
 - **Images:** Replace placeholder images with your own high-quality visuals.
 - **Content:** Update the text in each section to reflect your personal style and experiences.
 - **Styling:** Modify the CSS in vlog.css to match your preferred color scheme and design.
-
-## Contributing
-If you have ideas to improve this template, feel free to contribute! Fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
