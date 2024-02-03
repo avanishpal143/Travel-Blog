@@ -1,0 +1,149 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: rgb(61, 205, 205);
+    color: black;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    color: aqua;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+}
+#home{
+    text-align: center;
+    padding-top: 30px;
+    color: blue;
+}
+.p{
+    color: rgb(234, 62, 0);
+}
+
+section {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.destination {
+    margin-bottom: 20px;
+    padding-left: 100px;
+
+    /* display:flex; */
+}
+#des2{
+    padding-left: 200px;
+}
+.pop{
+    text-align: center;
+    color: green;
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin-top: 20px;
+}
+
+label, input, textarea {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#destinations{
+    display: flex;
+    padding-left: 30px;
+}
+
+.abo{
+    text-align: center;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  footer {
+    background-color: #288fa7;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-content p {
+    margin: 0;
+  }
+  
+  .footer-content ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .footer-content li {
+    margin-right: 20px;
+  }
+  
+  .footer-content a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+
+
+
+
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('backgr.jpg'); /* Update the file name and extension accordingly */
+    background-size: cover; /* Ensures that the image covers the entire background */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+  }
